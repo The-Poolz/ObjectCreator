@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32510.428
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectCreator", "ObjectCreator.csproj", "{3BF66A8A-B45E-4614-AC1E-BFFFAB18EF55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectCreatorTests", "..\ObjectCreatorTests\ObjectCreatorTests.csproj", "{1465E7D8-8C67-49C8-8783-8FCE9AA4F29E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3BF66A8A-B45E-4614-AC1E-BFFFAB18EF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BF66A8A-B45E-4614-AC1E-BFFFAB18EF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BF66A8A-B45E-4614-AC1E-BFFFAB18EF55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1465E7D8-8C67-49C8-8783-8FCE9AA4F29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1465E7D8-8C67-49C8-8783-8FCE9AA4F29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1465E7D8-8C67-49C8-8783-8FCE9AA4F29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1465E7D8-8C67-49C8-8783-8FCE9AA4F29E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
