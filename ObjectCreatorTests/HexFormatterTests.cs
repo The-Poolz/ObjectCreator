@@ -1,3 +1,4 @@
+using Xunit;
 using Serilog;
 using System.Numerics;
 using Xunit.Abstractions;
