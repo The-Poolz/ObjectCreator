@@ -1,9 +1,9 @@
 ﻿using Nethereum.Util;
+using System.Dynamic;
 using System.Numerics;
+using System.Text.Json;
 using System.Globalization;
 using System.Text.RegularExpressions;
-using System.Dynamic;
-using System.Text.Json;
 
 namespace ObjectCreator
 {
