@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Nethereum.Util" Version="4.6.1" />
+    <PackageReference Include="Nethereum.Web3" Version="4.6.1" />
+  </ItemGroup>
+
 </Project>
