@@ -1,4 +1,4 @@
-﻿using Nethereum.Util;
+using Nethereum.Util;
 using System.Dynamic;
 using System.Numerics;
 using System.Text.Json;
